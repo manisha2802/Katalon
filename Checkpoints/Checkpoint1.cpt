@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TestData1</source-url>
+   </source-info>
+   <taken-date>2023-06-15T15:49:21.173</taken-date>
+   <column-names>
+      <column-name>Verification</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Appointment Confirmation",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
